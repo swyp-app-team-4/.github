@@ -1,4 +1,8 @@
-<img width="584" height="626" alt="image" src="https://github.com/user-attachments/assets/636d7842-9863-4e1a-91fd-8969fd3b86b6" />
+<img width="3786" height="4096" alt="boombim_intro" src="https://github.com/user-attachments/assets/cfa4352a-56ad-4a1c-878e-bec3cfc67691" />
 
-
-붐빔붐빔붐빔
+<a href="https://apps.apple.com/kr/app/%EB%B6%90%EB%B9%94-boombim/id6751637320">
+  <img
+    alt="Download on the App Store"
+    src="https://github.com/user-attachments/assets/8c800880-a962-40ac-b888-2a5b16d49216"
+    height="48">
+</a>
