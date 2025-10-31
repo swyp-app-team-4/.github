@@ -15,6 +15,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://boombim.co.kr/">
+    🌐 <b>웹에서 바로가기</b>
+  </a>
+</div>
+
 <br>
 
 <p align="center">
@@ -24,6 +30,7 @@
 </p>
 
 ---
+
 
 ## 👥 팀원 소개
 
